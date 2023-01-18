@@ -12,3 +12,5 @@
 
 
 ### Autor: Diego Gutierrez Pilar
+<img width="200px" src="https://co2asturias.es/wp-content/uploads/2021/06/CIFP-sectores-industrial-servicios-logo.png">
+
