@@ -1,5 +1,5 @@
 # EjerciciosDocker
-Tabla de contenidos de los direrentes ejercicios de docker
+<center>Tabla de contenidos de los direrentes ejercicios de docker</center>
 
 <img src="https://www.muycomputerpro.com/wp-content/uploads/2018/07/docker.png">
 ## Enlaces a los readme de los ejercicios.
