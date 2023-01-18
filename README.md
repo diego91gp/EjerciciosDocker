@@ -1,5 +1,6 @@
 # EjerciciosDocker
+Tabla de contenidos de los direrentes ejercicios de docker
+## Enlaces a los diferentes ejercicios.
 
-
-<h2><a href="/Practica1/readme.md">Ejercicio 1</a></h2>
-<h2><a href="/Practica2/readme.md">Ejercicio 2</a></h2>
+<p><a href="/Practica1/readme.md">Ejercicio 1</a></p>
+<p><a href="/Practica2/readme.md">Ejercicio 2</a></p>
