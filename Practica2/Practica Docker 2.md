@@ -22,15 +22,17 @@ daw@daw-docker:~$ docker pull httpd
 
 ### 3. Crea un contenedor demonio con la imagen php:7.4-apache 
 
+
+
 ```bash
 daw@daw-docker:~$ docker run -d --name Demonphp php:7.4-apache
 ```
 
-
-
 ### 4. Comprueba el tamaño del contenedor en el disco duro. 
 
-### 5. Con la instrucción docker cp podemos copiar ficheros a o desde un contenedor. Puedes encontrar información es esta página. 
+![image-20230118095854341](assets/image-20230118095854341.png)
+
+### 5. Con la instrucción docker cp podemos copiar ficheros a o desde un contenedor. 
 
 #### a)Crea un fichero en tu ordenador, con el siguiente contenido: 
 
@@ -40,9 +42,16 @@ echo phpinfo();
 ?>
 ```
 
-
+```bash
+daw@daw-docker:~$ cd Documentos
+daw@daw-docker:~/Documentos$ nano archivo.txt
+daw@daw-docker:~/Documentos$ ls
+info.php
+```
 
 #### b)Copia un fichero info.php al directorio /var/www/html del contenedor con docker cp . 
+
+![image-20230118101714580](assets/image-20230118101714580.png)
 
 ### 6. Vuelve a comprobar el espacio ocupado por el contenedor. 
 
