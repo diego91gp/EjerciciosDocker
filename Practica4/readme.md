@@ -127,3 +127,4 @@ daw@daw-docker:~$ docker run -d -p 8080:80 --name nextMaria --network redMariaNe
 ### 7.Pantallazo donde se ve el acceso a la aplicación desde un navegador web.
 
 ![image-20230127095757634](assets/image-20230127095757634.png)
+ 
