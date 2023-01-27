@@ -141,7 +141,7 @@ latest: Pulling from library/nginx
 -d Para que corra en segundo plano.
 
 #### Accede al navegador web y comprueba que el servidor esta funcionando. 
-
+ 
 ![](./imagenes/Captura8.png)
 
 #### b)Muestra los logs del contenedor.
