@@ -1,17 +1,3 @@
-<style>img
-{
-    display:block;
-    float:none;
-    margin-left:auto;
-    margin-right:auto;
-    width:60%;
-}
-</style>
-
-
-
-
-
 # EjerciciosDocker
 
 <img width="650px" heigth="500px" src="https://www.muycomputerpro.com/wp-content/uploads/2018/07/docker.png">
