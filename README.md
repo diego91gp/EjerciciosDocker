@@ -1,6 +1,4 @@
-```css
-<style>
-img
+<style>img
 {
     display:block;
     float:none;
@@ -9,7 +7,8 @@ img
     width:60%;
 }
 </style>
-```
+
+
 
 
 
